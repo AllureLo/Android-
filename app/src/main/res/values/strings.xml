@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">demo</string>
+    <string name="picture">拍照</string>
+    <string name="album">相册</string>
+    <string name="cancel">取消</string>
+    <string name="_00_00">00:00</string>
+</resources>
